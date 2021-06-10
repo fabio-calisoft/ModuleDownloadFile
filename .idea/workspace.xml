@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ModuleDownloadFile:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e15f76d1-256f-4be3-9916-731f414e8b34" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../9698/Instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/Instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/conf/Application.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/conf/Application.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/conf/VHost.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/conf/VHost.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/lib/WowzaSolutionsBritishTelecomStreamSwitch.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/lib/WowzaSolutionsBritishTelecomStreamSwitch.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/.externalToolBuilders/JAR Builder.launch" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/.externalToolBuilders/JAR Builder.launch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/BaseModule$StreamListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/BaseModule$StreamListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/BaseModule.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/BaseModule.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/files/create_16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/files/create_16x16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/files/delete_16x16.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/files/delete_16x16.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/files/edit_16x16.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/files/edit_16x16.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/files/expand_16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/files/expand_16x16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/files/folder_16x16.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/files/folder_16x16.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/files/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/files/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/files/jquery-3.4.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/files/jquery-3.4.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/files/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/files/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/files/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/files/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/http/StreamInformation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/http/StreamInformation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/restapi/CreateOutput$JacksonCustomConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/restapi/CreateOutput$JacksonCustomConverter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/restapi/CreateOutput$OutputInfoObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/restapi/CreateOutput$OutputInfoObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/restapi/CreateOutput.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/restapi/CreateOutput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/restapi/DeleteOutput$JacksonCustomConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/restapi/DeleteOutput$JacksonCustomConverter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/restapi/DeleteOutput.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/restapi/DeleteOutput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/restapi/GetOutputs$OutputInfoObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/restapi/GetOutputs$OutputInfoObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/restapi/GetOutputs.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/restapi/GetOutputs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/restapi/GetStreamNames$StreamInfoObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/restapi/GetStreamNames$StreamInfoObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/restapi/GetStreamNames.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/restapi/GetStreamNames.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/restapi/SwitchOutput$JacksonCustomConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/restapi/SwitchOutput$JacksonCustomConverter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/restapi/SwitchOutput.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/restapi/SwitchOutput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/server/Listener.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/server/Listener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/stream/CreatedOutputStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/stream/CreatedOutputStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/stream/OutputStreams.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/stream/OutputStreams.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/stream/StreamPacketTimeCodes.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/stream/StreamPacketTimeCodes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/stream/StreamParameter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/stream/StreamParameter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/stream/StreamParameters.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/bin/com/wowza/britishTelecom/streamswitch/stream/StreamParameters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/BaseModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/BaseModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/files/create_16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/files/create_16x16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/files/delete_16x16.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/files/delete_16x16.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/files/edit_16x16.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/files/edit_16x16.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/files/expand_16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/files/expand_16x16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/files/folder_16x16.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/files/folder_16x16.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/files/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/files/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/files/jquery-3.4.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/files/jquery-3.4.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/files/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/files/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/files/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/files/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/http/StreamInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/http/StreamInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/restapi/CreateOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/restapi/CreateOutput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/restapi/DeleteOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/restapi/DeleteOutput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/restapi/GetOutputs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/restapi/GetOutputs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/restapi/GetStreamNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/restapi/GetStreamNames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/restapi/SwitchOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/restapi/SwitchOutput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/server/Listener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/server/Listener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/stream/CreatedOutputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/stream/CreatedOutputStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/stream/OutputStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/stream/OutputStreams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/stream/StreamPacketTimeCodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/stream/StreamPacketTimeCodes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/stream/StreamParameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/stream/StreamParameter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/stream/StreamParameters.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../9698/src/ZZZZWowzaSolutionsBritishTelecomStreamSwitch/src/com/wowza/britishTelecom/streamswitch/stream/StreamParameters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ModuleStreamSwitch/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ModuleStreamSwitch/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ModuleStreamSwitch/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ModuleStreamSwitch/src/com/wowza/africam/HTTPStreamControl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ModuleStreamSwitch/src/com/wowza/africam/ModuleStreamSwitch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/Instructions.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/conf/Application.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/conf/StartupStreams.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/conf/VHost.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/conf/transcode-audioonly.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/content/Advert1.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/content/Advert10.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/content/Advert11.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/content/Advert2.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/content/Advert3.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/content/Advert4.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/content/Advert5.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/content/Advert6.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/content/Advert7.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/content/Advert8.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/content/Advert9.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/content/audio.stream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/lib/Microsoft-EMF-AudioAdInsertion.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/src/Microsoft-EMF-AudioAdInsertion/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/src/Microsoft-EMF-AudioAdInsertion/.externalToolBuilders/JAR Builder.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/src/Microsoft-EMF-AudioAdInsertion/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/src/Microsoft-EMF-AudioAdInsertion/.settings/de.loskutov.anyedit.AnyEditTools.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/src/Microsoft-EMF-AudioAdInsertion/bin/com/wowza/emf/audio/advert/AdInsertHTTPController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/src/Microsoft-EMF-AudioAdInsertion/bin/com/wowza/emf/audio/advert/Insert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/src/Microsoft-EMF-AudioAdInsertion/bin/com/wowza/emf/audio/advert/SSAIAudioFader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/src/Microsoft-EMF-AudioAdInsertion/bin/com/wowza/emf/audio/advert/SSAIController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/src/Microsoft-EMF-AudioAdInsertion/bin/com/wowza/emf/audio/advert/SSAIEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/src/Microsoft-EMF-AudioAdInsertion/bin/com/wowza/emf/audio/advert/SSAIStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/src/Microsoft-EMF-AudioAdInsertion/bin/com/wowza/emf/audio/advert/TranscoderControl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/src/Microsoft-EMF-AudioAdInsertion/bin/com/wowza/emf/audio/advert/interfaces/ISSAIAudioFader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/src/Microsoft-EMF-AudioAdInsertion/bin/com/wowza/emf/audio/advert/interfaces/ISSAIController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/src/Microsoft-EMF-AudioAdInsertion/bin/com/wowza/emf/audio/advert/interfaces/ISSAIEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/src/Microsoft-EMF-AudioAdInsertion/bin/com/wowza/emf/audio/advert/interfaces/ISSAINotifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/src/Microsoft-EMF-AudioAdInsertion/bin/com/wowza/emf/audio/advert/interfaces/ISSAIStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/src/Microsoft-EMF-AudioAdInsertion/bin/com/wowza/emf/audio/advert/transcoder/SSAITranscoderAudioOverlay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/src/Microsoft-EMF-AudioAdInsertion/bin/com/wowza/emf/audio/advert/transcoder/SSAITranscoderCreateActionNotifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/src/Microsoft-EMF-AudioAdInsertion/bin/com/wowza/emf/audio/advert/transcoder/SSAITranscoderCreateNotifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/src/Microsoft-EMF-AudioAdInsertion/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/src/Microsoft-EMF-AudioAdInsertion/src/com/wowza/emf/audio/advert/AdInsertHTTPController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/src/Microsoft-EMF-AudioAdInsertion/src/com/wowza/emf/audio/advert/Insert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/src/Microsoft-EMF-AudioAdInsertion/src/com/wowza/emf/audio/advert/SSAIAudioFader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/src/Microsoft-EMF-AudioAdInsertion/src/com/wowza/emf/audio/advert/SSAIController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/src/Microsoft-EMF-AudioAdInsertion/src/com/wowza/emf/audio/advert/SSAIEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/src/Microsoft-EMF-AudioAdInsertion/src/com/wowza/emf/audio/advert/SSAIStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/src/Microsoft-EMF-AudioAdInsertion/src/com/wowza/emf/audio/advert/TranscoderControl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/src/Microsoft-EMF-AudioAdInsertion/src/com/wowza/emf/audio/advert/interfaces/ISSAIAudioFader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/src/Microsoft-EMF-AudioAdInsertion/src/com/wowza/emf/audio/advert/interfaces/ISSAIController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/src/Microsoft-EMF-AudioAdInsertion/src/com/wowza/emf/audio/advert/interfaces/ISSAIEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/src/Microsoft-EMF-AudioAdInsertion/src/com/wowza/emf/audio/advert/interfaces/ISSAINotifier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/src/Microsoft-EMF-AudioAdInsertion/src/com/wowza/emf/audio/advert/interfaces/ISSAIStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/src/Microsoft-EMF-AudioAdInsertion/src/com/wowza/emf/audio/advert/transcoder/SSAITranscoderAudioOverlay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/src/Microsoft-EMF-AudioAdInsertion/src/com/wowza/emf/audio/advert/transcoder/SSAITranscoderCreateActionNotifier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AudioFading/src/Microsoft-EMF-AudioAdInsertion/src/com/wowza/emf/audio/advert/transcoder/SSAITranscoderCreateNotifier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudAutoLoader/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudAutoLoader/conf/Server.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudAutoLoader/conf/configuration.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudAutoLoader/doc/instructions.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudAutoLoader/lib/Cloud-Java-Auto-Loader.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudAutoLoader/src/com/wowza/javaapi/cloud/loader/configurations/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudAutoLoader/src/com/wowza/javaapi/cloud/loader/configurations/BaseConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudAutoLoader/src/com/wowza/javaapi/cloud/loader/configurations/BaseServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudAutoLoader/src/com/wowza/javaapi/cloud/loader/configurations/HTTPProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudAutoLoader/src/com/wowza/javaapi/cloud/loader/configurations/Listener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudAutoLoader/src/com/wowza/javaapi/cloud/loader/configurations/Module.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudAutoLoader/src/com/wowza/javaapi/cloud/loader/configurations/Notifications.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudAutoLoader/src/com/wowza/javaapi/cloud/loader/configurations/Property.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudAutoLoader/src/com/wowza/javaapi/cloud/loader/configurations/VHost.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudAutoLoader/src/com/wowza/javaapi/cloud/loader/listeners/ApplicationInstanceManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudAutoLoader/src/com/wowza/javaapi/cloud/loader/listeners/ApplicationManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudAutoLoader/src/com/wowza/javaapi/cloud/loader/listeners/ConfigurationLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudAutoLoader/src/com/wowza/javaapi/cloud/loader/listeners/VHostManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudAutoLoader/src/com/wowza/javaapi/cloud/loader/utils/Properties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudVODTranscodingHLS/ZZZZZZCloudServiceExampleIanZ/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudVODTranscodingHLS/ZZZZZZCloudServiceExampleIanZ/.externalToolBuilders/JAR Builder.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudVODTranscodingHLS/ZZZZZZCloudServiceExampleIanZ/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudVODTranscodingHLS/ZZZZZZCloudServiceExampleIanZ/bin/com/wowza/cloud/transcode/file/service/AdInsertModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudVODTranscodingHLS/ZZZZZZCloudServiceExampleIanZ/bin/com/wowza/cloud/transcode/file/service/filewriter/ChunkInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudVODTranscodingHLS/ZZZZZZCloudServiceExampleIanZ/bin/com/wowza/cloud/transcode/file/service/filewriter/HLSChunkWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudVODTranscodingHLS/ZZZZZZCloudServiceExampleIanZ/bin/com/wowza/cloud/transcode/file/service/filewriter/HLSChunkWriterBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudVODTranscodingHLS/ZZZZZZCloudServiceExampleIanZ/bin/com/wowza/cloud/transcode/file/service/filewriter/MP4Writer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudVODTranscodingHLS/ZZZZZZCloudServiceExampleIanZ/bin/com/wowza/cloud/transcode/file/service/httpprovider/HTTPRequestDelivery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudVODTranscodingHLS/ZZZZZZCloudServiceExampleIanZ/bin/com/wowza/cloud/transcode/file/service/interfaces/ITranscodeFileWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudVODTranscodingHLS/ZZZZZZCloudServiceExampleIanZ/bin/com/wowza/cloud/transcode/file/service/interfaces/IVODTranscoderActivityNotify.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudVODTranscodingHLS/ZZZZZZCloudServiceExampleIanZ/bin/com/wowza/cloud/transcode/file/service/server/ServerListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudVODTranscodingHLS/ZZZZZZCloudServiceExampleIanZ/bin/com/wowza/cloud/transcode/file/service/server/TranscoderService$TranscodeFileWatcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudVODTranscodingHLS/ZZZZZZCloudServiceExampleIanZ/bin/com/wowza/cloud/transcode/file/service/server/TranscoderService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudVODTranscodingHLS/ZZZZZZCloudServiceExampleIanZ/bin/com/wowza/cloud/transcode/file/service/transcoder/TranscodeCupertinoFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudVODTranscodingHLS/ZZZZZZCloudServiceExampleIanZ/bin/com/wowza/cloud/transcode/file/service/transcoder/TranscodeFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudVODTranscodingHLS/ZZZZZZCloudServiceExampleIanZ/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudVODTranscodingHLS/ZZZZZZCloudServiceExampleIanZ/src/com/wowza/cloud/transcode/file/service/AdInsertModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudVODTranscodingHLS/ZZZZZZCloudServiceExampleIanZ/src/com/wowza/cloud/transcode/file/service/filewriter/ChunkInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudVODTranscodingHLS/ZZZZZZCloudServiceExampleIanZ/src/com/wowza/cloud/transcode/file/service/filewriter/HLSChunkWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudVODTranscodingHLS/ZZZZZZCloudServiceExampleIanZ/src/com/wowza/cloud/transcode/file/service/filewriter/HLSChunkWriterBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudVODTranscodingHLS/ZZZZZZCloudServiceExampleIanZ/src/com/wowza/cloud/transcode/file/service/filewriter/MP4Writer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudVODTranscodingHLS/ZZZZZZCloudServiceExampleIanZ/src/com/wowza/cloud/transcode/file/service/httpprovider/HTTPRequestDelivery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudVODTranscodingHLS/ZZZZZZCloudServiceExampleIanZ/src/com/wowza/cloud/transcode/file/service/interfaces/ITranscodeFileWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudVODTranscodingHLS/ZZZZZZCloudServiceExampleIanZ/src/com/wowza/cloud/transcode/file/service/interfaces/IVODTranscoderActivityNotify.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudVODTranscodingHLS/ZZZZZZCloudServiceExampleIanZ/src/com/wowza/cloud/transcode/file/service/server/ServerListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudVODTranscodingHLS/ZZZZZZCloudServiceExampleIanZ/src/com/wowza/cloud/transcode/file/service/server/TranscoderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudVODTranscodingHLS/ZZZZZZCloudServiceExampleIanZ/src/com/wowza/cloud/transcode/file/service/transcoder/TranscodeCupertinoFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CloudVODTranscodingHLS/ZZZZZZCloudServiceExampleIanZ/src/com/wowza/cloud/transcode/file/service/transcoder/TranscodeFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DreamTek/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DreamTek/conf/Application.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DreamTek/doc/DreamTek.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DreamTek/doc/DreamTek.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DreamTek/lib/WowzaSolutionsDreamTekTranscoder.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DreamTek/src/ZZZZWowzaSolutionsDreamTekTranscoder/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DreamTek/src/ZZZZWowzaSolutionsDreamTekTranscoder/.externalToolBuilders/JAR Builder.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DreamTek/src/ZZZZWowzaSolutionsDreamTekTranscoder/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DreamTek/src/ZZZZWowzaSolutionsDreamTekTranscoder/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DreamTek/src/ZZZZWowzaSolutionsDreamTekTranscoder/src/com/wowza/dreamtek/overlay/Module.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DreamTek/src/ZZZZWowzaSolutionsDreamTekTranscoder/src/com/wowza/dreamtek/overlay/StreamInformation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DreamTek/src/ZZZZWowzaSolutionsDreamTekTranscoder/src/com/wowza/dreamtek/overlay/StreamPacketTimecodes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DreamTek/src/ZZZZWowzaSolutionsDreamTekTranscoder/src/com/wowza/dreamtek/overlay/StreamState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DreamTek/src/ZZZZWowzaSolutionsDreamTekTranscoder/src/com/wowza/dreamtek/overlay/ThreadManagement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DreamTek/src/ZZZZWowzaSolutionsDreamTekTranscoder/src/com/wowza/dreamtek/overlay/playlist/SlateStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DreamTek/src/ZZZZWowzaSolutionsDreamTekTranscoder/src/com/wowza/dreamtek/overlay/transcoder/control/TranscoderActionNotifier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DreamTek/src/ZZZZWowzaSolutionsDreamTekTranscoder/src/com/wowza/dreamtek/overlay/transcoder/control/TranscoderControl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DreamTek/src/ZZZZWowzaSolutionsDreamTekTranscoder/src/com/wowza/dreamtek/overlay/transcoder/control/TranscoderNotifier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DreamTek/src/ZZZZWowzaSolutionsDreamTekTranscoder/src/com/wowza/dreamtek/overlay/transcoder/overlays/ImageOverlay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DreamTek/src/ZZZZWowzaSolutionsDreamTekTranscoder/src/com/wowza/dreamtek/overlay/transcoder/overlays/StreamAudioFrameApply.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DreamTek/src/ZZZZWowzaSolutionsDreamTekTranscoder/src/com/wowza/dreamtek/overlay/transcoder/overlays/StreamAudioFrameGrabber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DreamTek/src/ZZZZWowzaSolutionsDreamTekTranscoder/src/com/wowza/dreamtek/overlay/transcoder/overlays/StreamOverlayManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DreamTek/src/ZZZZWowzaSolutionsDreamTekTranscoder/src/com/wowza/dreamtek/overlay/transcoder/overlays/StreamOverlays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DreamTek/src/ZZZZWowzaSolutionsDreamTekTranscoder/src/com/wowza/dreamtek/overlay/transcoder/overlays/StreamVideoFrameApply.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DreamTek/src/ZZZZWowzaSolutionsDreamTekTranscoder/src/com/wowza/dreamtek/overlay/transcoder/overlays/StreamVideoFrameGrabber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DreamTek/transcoder/templates/Stream1_360p.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DreamTek/transcoder/templates/transcode.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Instructions.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/.externalToolBuilders/JAR Builder.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/com/wowza/andrew/matroska/file/HTTP/MediaReaderMKVCupertino.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/com/wowza/andrew/matroska/file/HTTP/MediaReaderMKVHTTPBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/com/wowza/andrew/matroska/file/MediaReaderMKV.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/com/wowza/andrew/matroska/file/Testing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/org/ebml/BinaryElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/org/ebml/DateElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/org/ebml/EBMLReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/org/ebml/EBMLWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/org/ebml/Element.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/org/ebml/FloatElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/org/ebml/MasterElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/org/ebml/ProtoType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/org/ebml/SignedIntegerElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/org/ebml/StringElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/org/ebml/UTF8StringElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/org/ebml/UnsignedIntegerElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/org/ebml/io/DataSeekable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/org/ebml/io/DataSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/org/ebml/io/DataWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/org/ebml/io/FileDataSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/org/ebml/io/FileDataWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/org/ebml/io/packageinfo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/org/ebml/matroska/MatroskaBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/org/ebml/matroska/MatroskaCluster.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/org/ebml/matroska/MatroskaClusterRead.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/org/ebml/matroska/MatroskaDocTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/org/ebml/matroska/MatroskaFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/org/ebml/matroska/MatroskaFileCues.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/org/ebml/matroska/MatroskaFileFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/org/ebml/matroska/MatroskaFileMetaSeek.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/org/ebml/matroska/MatroskaFileSimpleTag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/org/ebml/matroska/MatroskaFileTagEntry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/org/ebml/matroska/MatroskaFileTrack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/org/ebml/matroska/MatroskaFileTracks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/org/ebml/matroska/MatroskaFileWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/org/ebml/matroska/MatroskaLaceMode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/org/ebml/matroska/MatroskaSegment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/org/ebml/matroska/MatroskaSegmentInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/org/ebml/matroska/MatroskaSimpleBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/org/ebml/matroska/VoidElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/org/ebml/matroska/packageinfo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/Matroska-MKV-Reader/src/org/ebml/packageinfo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/MediaReaders.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MKV/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/.idea/src.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/.idea/src.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/amf/AMFData.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/amf/AMFData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/amf/AMFDataContextSerialize.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/amf/AMFDataContextSerialize.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/amf/AMFDataItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/amf/AMFDataItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/amf/AMFDataList.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/amf/AMFDataList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/amf/AMFDataObj.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/amf/AMFDataObj.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/amf/AMFObj.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/amf/AMFObj.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/amf/AMFPacket.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/amf/AMFPacket.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/node-test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/node-test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/transport/TransportConstants.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/transport/TransportConstants.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/transport/TransportFunctionHolder.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/transport/TransportFunctionHolder.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/transport/TransportMediaConstants.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/transport/TransportMediaConstants.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/transport/TransportMediaListRendition.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/transport/TransportMediaListRendition.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/transport/TransportMessage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/transport/TransportMessage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/transport/TransportMessageHolder.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/transport/TransportMessageHolder.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/transport/TransportMessageUtils.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/transport/TransportMessageUtils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/transport/TransportParserSession.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/transport/TransportParserSession.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/transport/TransportPlay2Options.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/transport/TransportPlay2Options.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/transport/TransportSession.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/transport/TransportSession.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/transport/TransportStream.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/transport/TransportStream.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/util/TransportBufferUtils.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/util/TransportBufferUtils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/util/TransportByteBuffer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/util/TransportByteBuffer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/util/TransportSystemUtils.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/util/TransportSystemUtils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/util/TransportURLUtils.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/util/TransportURLUtils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/wowz/WOWZHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/wowz/WOWZHeader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/wowz/WOWZProtocolMsgBase.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/wowz/WOWZProtocolMsgBase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/wowz/WOWZProtocolMsgInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/wowz/WOWZProtocolMsgInfo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/wowz/WOWZProtocolMsgStart.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/wowz/WOWZProtocolMsgStart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/wowz/WOWZSession.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/wowz/WOWZSession.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/wowz/WOWZUtils.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Palantir/wmstransport-JS/src/wowz/WOWZUtils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PitchAware/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../PitchAware/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PitchAware/conf/Application.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PitchAware/conf/Application.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PitchAware/doc/PitchAware.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../PitchAware/doc/PitchAware.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PitchAware/doc/PitchAware.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../PitchAware/doc/PitchAware.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PitchAware/lib/WowzaSolutionsPitchAware.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../PitchAware/lib/WowzaSolutionsPitchAware.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PitchAware/src/com/wowza/pitchaware/controller/MasterStreamController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PitchAware/src/com/wowza/pitchaware/controller/MasterStreamController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PitchAware/src/com/wowza/pitchaware/controller/PacketizerControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PitchAware/src/com/wowza/pitchaware/controller/PacketizerControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PitchAware/src/com/wowza/pitchaware/controller/StreamInfoNotification.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PitchAware/src/com/wowza/pitchaware/controller/StreamInfoNotification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PitchAware/src/com/wowza/pitchaware/controller/StreamRecorderParms.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PitchAware/src/com/wowza/pitchaware/controller/StreamRecorderParms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PitchAware/src/com/wowza/pitchaware/controller/TranscoderControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PitchAware/src/com/wowza/pitchaware/controller/TranscoderControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PitchAware/src/com/wowza/pitchaware/module/Module.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PitchAware/src/com/wowza/pitchaware/module/Module.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PitchAware/src/com/wowza/pitchaware/module/S3Upload.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PitchAware/src/com/wowza/pitchaware/module/S3Upload.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PitchAware/src/com/wowza/pitchaware/streams/ISlateStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PitchAware/src/com/wowza/pitchaware/streams/ISlateStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PitchAware/src/com/wowza/pitchaware/streams/SlateStreamBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PitchAware/src/com/wowza/pitchaware/streams/SlateStreamBasic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RecordAllStreams/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../RecordAllStreams/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RecordAllStreams/doc/RecordAllStreamsLSRCustomerDocument.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../RecordAllStreams/doc/RecordAllStreamsLSRCustomerDocument.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RecordAllStreams/doc/RecordAllStreamsLSRCustomerDocument.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../RecordAllStreams/doc/RecordAllStreamsLSRCustomerDocument.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RecordAllStreams/lib/WowzaSolutionsRecordAllStreamsLSR.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../RecordAllStreams/lib/WowzaSolutionsRecordAllStreamsLSR.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RecordAllStreams/package/RecordAllStreamsCustomerPackage.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../RecordAllStreams/package/RecordAllStreamsCustomerPackage.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RecordAllStreams/src/Recorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../RecordAllStreams/src/Recorder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SmugMugMediaCacheKMS/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SmugMugMediaCacheKMS/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SmugMugMediaCacheKMS/conf/Application.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SmugMugMediaCacheKMS/conf/Application.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SmugMugMediaCacheKMS/conf/MediaCache.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SmugMugMediaCacheKMS/conf/MediaCache.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SmugMugMediaCacheKMS/conf/Server.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SmugMugMediaCacheKMS/conf/Server.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SmugMugMediaCacheKMS/doc/SmugMugMediaCacheKMS.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../SmugMugMediaCacheKMS/doc/SmugMugMediaCacheKMS.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SmugMugMediaCacheKMS/doc/SmugMugMediaCacheKMS.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../SmugMugMediaCacheKMS/doc/SmugMugMediaCacheKMS.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SmugMugMediaCacheKMS/lib/US_export_policy.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../SmugMugMediaCacheKMS/lib/US_export_policy.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SmugMugMediaCacheKMS/lib/WowzaSolutionsSmugMugS3KMS.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../SmugMugMediaCacheKMS/lib/WowzaSolutionsSmugMugS3KMS.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SmugMugMediaCacheKMS/lib/aws-java-sdk-core-1.11.577-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../SmugMugMediaCacheKMS/lib/aws-java-sdk-core-1.11.577-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SmugMugMediaCacheKMS/lib/aws-java-sdk-kms-1.11.577-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../SmugMugMediaCacheKMS/lib/aws-java-sdk-kms-1.11.577-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SmugMugMediaCacheKMS/lib/aws-java-sdk-s3-1.11.577-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../SmugMugMediaCacheKMS/lib/aws-java-sdk-s3-1.11.577-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SmugMugMediaCacheKMS/lib/local_policy.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../SmugMugMediaCacheKMS/lib/local_policy.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SmugMugMediaCacheKMS/src/MediaCacheHTTPS3KMSByteReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SmugMugMediaCacheKMS/src/MediaCacheHTTPS3KMSByteReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SmugMugMediaCacheKMS/src/MediaCacheItemHTTPS3KMSFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SmugMugMediaCacheKMS/src/MediaCacheItemHTTPS3KMSFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SuffolkUniversity-TP12590/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../SuffolkUniversity-TP12590/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SuffolkUniversity-TP12590/doc/SuffolkUniversity.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../SuffolkUniversity-TP12590/doc/SuffolkUniversity.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SuffolkUniversity-TP12590/lib/ZZZZWowzaSolutionsSuffolk.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../SuffolkUniversity-TP12590/lib/ZZZZWowzaSolutionsSuffolk.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SuffolkUniversity-TP12590/src/client/LoadBalancerClientExtensionCPU.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SuffolkUniversity-TP12590/src/client/LoadBalancerClientExtensionCPU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SuffolkUniversity-TP12590/src/decisions/LoadBalancerServerExtensionCPU.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SuffolkUniversity-TP12590/src/decisions/LoadBalancerServerExtensionCPU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SuffolkUniversity-TP12590/src/decisions/LoadBalancerServerExtensionOffLoad.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SuffolkUniversity-TP12590/src/decisions/LoadBalancerServerExtensionOffLoad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SuffolkUniversity-TP12590/src/httpextension/LoadBalancerHTTPDASH.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SuffolkUniversity-TP12590/src/httpextension/LoadBalancerHTTPDASH.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SuffolkUniversity-TP12590/src/httpextension/LoadBalancerHTTPM3U8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SuffolkUniversity-TP12590/src/httpextension/LoadBalancerHTTPM3U8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SuffolkUniversity-TP12590/src/utils/RequestURLUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SuffolkUniversity-TP12590/src/utils/RequestURLUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebRTCTimeCodeJumpFix/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../WebRTCTimeCodeJumpFix/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebRTCTimeCodeJumpFix/doc/ApplicationModuleOverride.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../WebRTCTimeCodeJumpFix/doc/ApplicationModuleOverride.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebRTCTimeCodeJumpFix/doc/ApplicationModuleOverride.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../WebRTCTimeCodeJumpFix/doc/ApplicationModuleOverride.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebRTCTimeCodeJumpFix/lib/ZZZZWowzaSolutionsWebRTCPacketListen.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../WebRTCTimeCodeJumpFix/lib/ZZZZWowzaSolutionsWebRTCPacketListen.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebRTCTimeCodeJumpFix/src/ApplicationModuleOverride.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WebRTCTimeCodeJumpFix/src/ApplicationModuleOverride.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1cZIGm0dQxeLuMiQjZPpA7Ha7Kc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.28965518" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Build" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/classes/artifacts/ModuleDownloadFile_jar/ModuleDownloadFile.jar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_271.jdk/Contents/Home" />
+      <module name="DownloadFile" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JarApplication">
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e15f76d1-256f-4be3-9916-731f414e8b34" name="Default Changelist" comment="" />
+      <created>1590729594423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590729594423</updated>
+      <workItem from="1590729597877" duration="74000" />
+      <workItem from="1590765966428" duration="810000" />
+      <workItem from="1623169344147" duration="2190000" />
+      <workItem from="1623172409807" duration="428000" />
+      <workItem from="1623172862086" duration="1003000" />
+      <workItem from="1623174402742" duration="13000" />
+      <workItem from="1623258566874" duration="1214000" />
+      <workItem from="1623260825608" duration="497000" />
+      <workItem from="1623264922827" duration="413000" />
+      <workItem from="1623265458807" duration="1464000" />
+      <workItem from="1623267537008" duration="1355000" />
+      <workItem from="1623269429087" duration="1206000" />
+      <workItem from="1623280212449" duration="1639000" />
+      <workItem from="1623282071373" duration="1191000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
